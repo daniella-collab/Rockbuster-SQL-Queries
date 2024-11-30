@@ -4,10 +4,10 @@ Rockbuster Stealth LLC, which used to have movie rental stores worldwide, is str
 ## Objective:
 The Rockbuster Stealth Management Board has asked several business questions to help shape their 2020 strategy. They want to know:
 
-● Which movies contributed the most/least to revenue gain?
-● What was the average rental duration for all videos?
-● Which countries are Rockbuster customers based i n?
-● Where are customers with a high l ifetime value based?
+  ● Which movies contributed the most/least to revenue gain?
+  ● What was the average rental duration for all videos?
+  ● Which countries are Rockbuster customers based i n?
+  ● Where are customers with a high l ifetime value based?
 ● Do sales figures vary between geographic regions?
 
 ## Fact Tables
